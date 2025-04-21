@@ -1,4 +1,5 @@
 **UFO Sightings Analysis**
+
 This repository contains a Jupyter Notebook analyzing UFO sighting data using clustering and linear regression techniques.
 
 **Overview**
@@ -46,6 +47,7 @@ The notebook performs the following analysis:
 -Open and run the Jupyter Notebook UFO_sighting.ipynb
 
 **Data**
+
 The notebook expects a CSV file named ufo_sighting.csv with columns for latitude and longitude. The sample data contains geographic coordinates of UFO sightings.
 
 **Results**
@@ -61,6 +63,7 @@ The analysis produces a visualization showing:
 -Major city markers for reference
 
 **Future Work**
+
 Try different clustering algorithms or cluster counts
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
