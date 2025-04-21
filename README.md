@@ -48,7 +48,7 @@ The notebook performs the following analysis:
 
 **Data**
 
-The notebook expects a CSV file named ufo_sighting.csv with columns for latitude and longitude. The sample data contains geographic coordinates of UFO sightings.
+The notebook expects a CSV file named ufo_sighting.csv, of which I have used the columns for latitude and longitude.
 
 **Results**
 
@@ -67,3 +67,7 @@ The analysis produces a visualization showing:
 Try different clustering algorithms or cluster counts
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+
+**Notes**
+
+This topic is exploratory and not directly related to my intended major; however, the skills and analysis used are transferable to other data sets.
