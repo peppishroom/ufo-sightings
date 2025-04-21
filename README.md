@@ -2,6 +2,7 @@
 This repository contains a Jupyter Notebook analyzing UFO sighting data using clustering and linear regression techniques.
 
 **Overview**
+
 The notebook performs the following analysis:
 
 -Loads and cleans UFO sighting location data (latitude/longitude)
@@ -13,6 +14,7 @@ The notebook performs the following analysis:
 -Visualizes the results with geographic clusters, regression lines, and major city markers
 
 **Key Features**
+
 -Data cleaning and preprocessing
 
 -K-means clustering (k=2) of sighting locations
@@ -24,6 +26,7 @@ The notebook performs the following analysis:
 -Markers for major cities (Beijing, London, New York, Dakota)
 
 **Requirements**
+
 -Python 3
 
 -pandas
@@ -35,6 +38,7 @@ The notebook performs the following analysis:
 -matplotlib
 
 **Usage**
+
 -Clone the repository
 
 -Install required packages: pip install pandas numpy scikit-learn matplotlib
@@ -45,6 +49,7 @@ The notebook performs the following analysis:
 The notebook expects a CSV file named ufo_sighting.csv with columns for latitude and longitude. The sample data contains geographic coordinates of UFO sightings.
 
 **Results**
+
 The analysis produces a visualization showing:
 
 -Geographic distribution of sightings
